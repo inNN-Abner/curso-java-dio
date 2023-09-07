@@ -15,6 +15,12 @@
             "name": "Argumentos",
             "request": "launch",
             "mainClass": "edu.java.argumentos.Argumentos",
+            "args": [
+                "Abner",
+                "Fernandes",
+                "20",
+                "1.70"
+            ]
             "projectName": "curso-java-dio_27843c5f"
         },
         {
