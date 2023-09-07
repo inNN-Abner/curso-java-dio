@@ -11,4 +11,8 @@ public class DocumentacaoCalculadora {
     public int somar(int numeroUm, int numeroDois) {
         return  numeroUm + numeroDois;
     }
+
+    //Fazendo uma documentação JavaDoc em HTML
+    //Inserir texto no terminal:
+    //javadoc -encoding UTF-8-d ../docs serc/*.java
 }

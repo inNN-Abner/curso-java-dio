@@ -1,0 +1,49 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Argumentos",
+            "request": "launch",
+            "mainClass": "edu.java.argumentos.Argumentos",
+            "projectName": "curso-java-dio_27843c5f"
+        },
+        {
+            "type": "java",
+            "name": "UsuarioSmartTv",
+            "request": "launch",
+            "mainClass": "edu.java.metodos.UsuarioSmartTv",
+            "projectName": "curso-java-dio_27843c5f"
+        },
+        {
+            "type": "java",
+            "name": "OperadorRelacional",
+            "request": "launch",
+            "mainClass": "edu.java.operadores.OperadorRelacional",
+            "projectName": "curso-java-dio_27843c5f"
+        },
+        {
+            "type": "java",
+            "name": "OperadorTernario",
+            "request": "launch",
+            "mainClass": "edu.java.operadores.OperadorTernario",
+            "projectName": "curso-java-dio_27843c5f"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "edu.java.sintaxejava.HelloWorld",
+            "projectName": "curso-java-dio_27843c5f"
+        }
+    ]
+}
