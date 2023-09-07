@@ -1,4 +1,4 @@
-package edu.java.Operadores;
+package edu.java.operadores;
 
     public class OperadorRelacional {
         public static void main(String[] args) {
