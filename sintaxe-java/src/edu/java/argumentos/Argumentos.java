@@ -26,6 +26,7 @@ public class Argumentos {
 
         System.out.println("Digite a sua altura: ");
         altura = scanner.nextDouble();
+        scanner.close();
 
         System.out.println("Olá, " + nome + " " + sobrenome + ". Você tem " + idade + " anos de idade e a sua altura é de " + altura + "cm.");
     }

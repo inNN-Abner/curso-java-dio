@@ -25,6 +25,7 @@ public class NotasMedia {
         notaDois = scanner.nextDouble();
         System.out.println("Digite a terceira nota do Aluno: ");
         notaTres = scanner.nextDouble();
+        scanner.close();
 
         mediaNota = Double.valueOf(formato.format((notaUm + notaDois + notaTres) / 3));
 

@@ -19,6 +19,7 @@ public class WhileMesada {
             System.out.println("Doce do valor: " + valorDoce + " adicionado ao carrinho!");
             mesada = mesada - valorDoce;
         }
+        scanner.close();
         
         if(mesada == 0){
             System.out.println("Joãozinho não poupou nada da sua mesada!");

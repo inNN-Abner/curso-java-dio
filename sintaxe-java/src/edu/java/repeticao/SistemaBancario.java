@@ -12,6 +12,7 @@ public class SistemaBancario {
     
         System.out.println("Qual a quantidade que você deseja transferir?: ");
         transferencia = scanner.nextDouble();
+        scanner.close();
 
         if (saldo >= transferencia){
             saldo = saldo - transferencia;
